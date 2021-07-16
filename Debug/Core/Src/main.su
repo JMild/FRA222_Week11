@@ -9,6 +9,6 @@ main.c:311:10:UARTGetRxHead	16	static
 main.c:318:9:UARTReadChar	32	static
 main.c:331:6:UARTTxDumpBuffer	24	static
 main.c:357:6:UARTTxWrite	32	static
-main.c:382:6:DynamixelProtocal2	96	static
-main.c:560:16:update_crc	536	static
-main.c:612:6:Error_Handler	4	static,ignoring_inline_asm
+main.c:382:6:DynamixelProtocal2	120	static
+main.c:580:16:update_crc	536	static
+main.c:632:6:Error_Handler	4	static,ignoring_inline_asm
